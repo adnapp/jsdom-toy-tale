@@ -53,6 +53,24 @@
       "image": "https://static.wikia.nocookie.net/disney/images/c/c5/Toy-story2-disneyscreencaps.com-8243.jpg/revision/latest/scale-to-width-down/1032?cb=20130508003153",
       "likes": 0,
       "id": 9
+    },
+    {
+      "name": "Andy",
+      "image": "https://static.wikia.nocookie.net/disney/images/0/04/Andy_medium.png/revision/latest/scale-to-width-down/690?cb=20190622002909",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Mrs potato",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa-%2FAAuE7mBb8ztVh4pNm6A-PZnnIWqXEd8JIREfchI-Aw%3Ds900-mo-c-c0xffffffff-rj-k-no&f=1&nofb=1",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Lotso",
+      "image": "https://static.wikia.nocookie.net/disney/images/3/36/Profile_-_Lotso_Huggin_Bear.jpeg/revision/latest/scale-to-width-down/1032?cb=20190313160702",
+      "likes": 0,
+      "id": 13
     }
   ]
 }
